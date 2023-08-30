@@ -58,5 +58,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="45" height="45"/>
 </p>
 
+---
+
 <a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine"></a>
