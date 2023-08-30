@@ -58,4 +58,4 @@ hobbies:
 ---
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=C%23,ShaderLab,HLSL,GLSL,HTML"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=Java,C%23,ShaderLab,HLSL,GLSL,HTML"></a>
