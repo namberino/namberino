@@ -11,7 +11,7 @@ name: Nam Nguyen
 
 education:
     - "Self-taught programmer for 3 years"
-    - "Currently studying CS in university"
+    - "Currently studying Computer Science in university"
 
 interests:
     - "Embedded systems"
