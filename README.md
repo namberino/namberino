@@ -8,6 +8,7 @@
 
 ```yaml
 name: Nam Nguyen
+
 education:
   [
     "Self-taught programmer for 3 years",
