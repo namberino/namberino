@@ -11,7 +11,7 @@ name: Nam Nguyen
 
 education:
     - "Self-taught programmer for 3 years"
-    - "Currently studying Computer Science in university"
+    - "Currently in university"
 
 interests:
     - "Embedded systems"
@@ -23,16 +23,9 @@ interests:
     - "Cybersecurity"
     - "A.I/Machine Learning"
 
-currently_learning:
-    - "College Physics"
-    - "Calculus"
-    - "Robot Operating System (ROS)"
-    - "FPGA Design"
-
 hobbies:
     - "Learning new things"
     - "Reading"
-    - "Running"
     - "Gaming"
 ```
 
