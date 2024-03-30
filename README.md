@@ -10,20 +10,20 @@
 name: Nam Nguyen
 
 education:
-    - "Self-taught programmer for 3 years"
+    - "Self-taught programmer since 10th grade"
     - "Currently in university"
 
 interests:
     - "Embedded systems"
     - "Electronics"
     - "System programming"
-    - "Robotics"
-    - "Science"
-    - "Computational Science"
     - "Cybersecurity"
+    - "Robotics"
+    - "Computational Science"
 
 hobbies:
     - "Learning new things"
+    - "Science"
     - "Running"
     - "Reading"
     - "Movies"
