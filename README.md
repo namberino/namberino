@@ -21,11 +21,12 @@ interests:
     - "Science"
     - "Computational Science"
     - "Cybersecurity"
-    - "A.I/Machine Learning"
 
 hobbies:
     - "Learning new things"
+    - "Running"
     - "Reading"
+    - "Movies"
     - "Gaming"
 ```
 
