@@ -44,6 +44,7 @@ hobbies:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="50" height="50"/>
     <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" width="50" height="50"/>
+    <img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="50" height="50"/>
 </p>
 
 ---
