@@ -52,3 +52,11 @@ hobbies:
 
 <!-- <a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=SciLab,Vim%20Script,Java,C%23,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C"></a> -->
+
+<h2>&nbsp;Reach out to me</h2>
+<ul>
+  <li><a href="https://namberino.github.io">My Blog</a></li>
+  <li><a href="mailto:namberinos@gmail.com">My Email</a></li>
+  <li><a href="https://linkedin.com/in/namnguyen01">My LinkedIn</a></li>
+  <li><a href="https://twitter.com/namberinos">My Twitter</a></li>
+</ul>
