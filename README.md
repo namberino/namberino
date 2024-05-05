@@ -60,3 +60,7 @@ hobbies:
   <li><a href="https://linkedin.com/in/namnguyen01">My LinkedIn</a></li>
   <li><a href="https://twitter.com/namberinos">My Twitter</a></li>
 </ul>
+
+---
+
+<img src="https://raw.githubusercontent.com/namberino/namberino/output/snake.svg" alt="Snake animation" />
