@@ -10,8 +10,8 @@
 name: Nam Nguyen
 
 education:
-    - "Self-taught programmer since 10th grade"
-    - "Currently in university"
+    - "Currently pursuing a Bachelor's"
+    - "Class of 2025"
 
 interests:
     - "Embedded systems"
