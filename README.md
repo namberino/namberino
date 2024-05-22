@@ -34,7 +34,7 @@ interests:
 hobbies:
     - "Learning new things"
     - "Science"
-    - "Running"
+    - "Workout"
     - "Reading"
     - "Movies"
     - "Gaming"
