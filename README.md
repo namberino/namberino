@@ -15,10 +15,12 @@ education:
 
 skills:
     - "Systems programming"
+    - "Firmware development"
     - "Electronics"
-    - "Reverse engineering"
     - "PCB design"
+    - "Embedded software"
     - "FPGA"
+    - "Reverse engineering"
     - "Full stack web development"
 
 interests:
