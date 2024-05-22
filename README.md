@@ -13,6 +13,14 @@ education:
     - "Currently pursuing a Bachelor's"
     - "Class of 2025"
 
+skills:
+    - "Systems programming"
+    - "Electronics"
+    - "Reverse engineering"
+    - "PCB design"
+    - "FPGA"
+    - "Full stack web development"
+
 interests:
     - "Embedded systems"
     - "Electronics"
@@ -63,4 +71,4 @@ hobbies:
 
 ---
 
-<img src="https://raw.githubusercontent.com/namberino/namberino/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/namberino/namberino/output/snake.svg" alt="Snake animation" /> -->
