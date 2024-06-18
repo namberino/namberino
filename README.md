@@ -60,9 +60,6 @@ hobbies:
 
 ---
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=SciLab,Vim%20Script,C%23,Jupyter%20Notebook,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C"></a>
-
 <h2>&nbsp;Reach out to me</h2>
 <ul>
   <li><a href="https://namberino.github.io">My Blog</a></li>
@@ -72,5 +69,9 @@ hobbies:
 </ul>
 
 ---
+
+<a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=SciLab,Vim%20Script,C%23,Jupyter%20Notebook,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C"></a>
+
 
 <!-- <img src="https://raw.githubusercontent.com/namberino/namberino/output/snake.svg" alt="Snake animation" /> -->
