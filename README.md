@@ -72,17 +72,17 @@ hobbies:
 
 <p align="center">
   <a href="https://namberino.github.io">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&count_private=true&theme=rose_pine&number_format=long" />
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&count_private=true&theme=gruvbox&number_format=long" />
   </a>
   <a href="https://namberino.github.io">
-    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=namberino&theme=rose_pine" />
+    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=namberino&theme=gruvbox" />
   </a>
   <br/> 
   <a href="https://namberino.github.io">
-    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=SciLab,Vim%20Script,C%23,Jupyter%20Notebook,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C,JavaScript,TSQL" />
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,Jupyter%20Notebook,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C,JavaScript,TSQL" />
   </a>
   <a href="https://github.com/namberino/nam85">
-    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=namberino&repo=nam85&line_height=20&theme=rose_pine" />
+    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=namberino&repo=nam85&line_height=20&theme=gruvbox" />
   </a>
 </p>
 
