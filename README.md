@@ -61,12 +61,8 @@ hobbies:
 ---
 
 <h2>&nbsp;Reach out to me</h2>
-<ul>
-  <li><a href="https://namberino.github.io">My Blog</a></li>
-  <li><a href="mailto:namberinos@gmail.com">My Email</a></li>
-  <li><a href="https://linkedin.com/in/namnguyen01">My LinkedIn</a></li>
-  <li><a href="https://twitter.com/namberinos">My Twitter</a></li>
-</ul>
+
+[![Website](https://img.shields.io/badge/Website-blue)](https://namberino.github.io) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:namberinos@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nam-nguyen-binh) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/namberinos)
 
 ---
 
