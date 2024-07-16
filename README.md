@@ -42,7 +42,7 @@ hobbies:
 
 ---
 
-<h2>&nbsp;Some Tools I Have Learned</h2>
+<h2>&nbsp;Some Stuff I've Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
