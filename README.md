@@ -8,6 +8,7 @@
 
 ```yaml
 name: Nam Nguyen
+title: Embedded systems and software engineer
 
 education:
     - "Currently pursuing a Bachelor's"
