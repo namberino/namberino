@@ -8,7 +8,7 @@
 
 ```yaml
 name: Nam Nguyen
-title: Embedded systems and software engineer
+title: Software engineering
 
 education:
     - "Currently pursuing a Bachelor's"
@@ -16,12 +16,12 @@ education:
 
 skills:
     - "Systems programming"
-    - "Firmware development"
+    - "Data science"
     - "Electronics"
     - "PCB design"
     - "Embedded software"
     - "FPGA"
-    - "Reverse engineering"
+    - "Cybersecurity"
     - "Full stack web development"
 
 interests:
