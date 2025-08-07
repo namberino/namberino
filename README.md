@@ -30,7 +30,6 @@ interests:
     - "Electronics"
     - "System programming"
     - "Robotics"
-    - "Computational Science"
 
 hobbies:
     - "Learning new things"
@@ -40,24 +39,6 @@ hobbies:
     - "Movies"
     - "Gaming"
 ```
-
----
-
-<h2>&nbsp;Some Stuff I've Learned</h2>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" height="50"/>
-    <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" width="50" height="50"/>
-    <img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="50" height="50"/>
-    <img src="https://www.focuslk.com/wp-content/uploads/2021/05/FPGAs-Icon_4x.jpg" width="50" height="50"/>
-</p>
 
 ---
 
