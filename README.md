@@ -8,7 +8,7 @@
 
 ```yaml
 name: Nam Nguyen
-title: Software engineering
+title: Software & Security Engineer
 
 education:
     - "Currently pursuing a Bachelor's"
@@ -16,19 +16,19 @@ education:
 
 skills:
     - "Systems programming"
+    - "Compilers"
     - "Data science"
-    - "Electronics"
-    - "PCB design"
     - "Embedded software"
-    - "FPGA"
     - "Cybersecurity"
     - "Full stack web development"
 
 interests:
+    - "Cybersecurity"
+    - "Program analysis"
+    - "Compilers"
     - "Embedded systems"
     - "Electronics"
     - "System programming"
-    - "Cybersecurity"
     - "Robotics"
     - "Computational Science"
 
