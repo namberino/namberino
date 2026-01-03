@@ -28,11 +28,9 @@ interests:
 
 hobbies:
     - "Learning new things"
-    - "Science"
-    - "Workout"
-    - "Reading"
-    - "Movies"
-    - "Gaming"
+    - "Reading books"
+    - "Watching movies"
+    - "Playing games"
 ```
 
 ---
