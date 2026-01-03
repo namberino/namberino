@@ -8,19 +8,14 @@
 
 ```yaml
 name: Nam Nguyen
-title: Software & Security Engineer
-
-education:
-    - "Currently pursuing a Bachelor's"
-    - "Class of 2025"
+title: Security Researcher
 
 skills:
+    - "Cybersecurity"
     - "Systems programming"
     - "Compilers"
-    - "Data science"
+    - "Machine learning"
     - "Embedded software"
-    - "Cybersecurity"
-    - "Full stack web development"
 
 interests:
     - "Cybersecurity"
